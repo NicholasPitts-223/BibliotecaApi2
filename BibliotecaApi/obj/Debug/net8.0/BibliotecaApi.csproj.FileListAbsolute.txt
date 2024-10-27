@@ -1,0 +1,7 @@
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.csproj.AssemblyReference.cache
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.AssemblyInfoInputs.cache
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.AssemblyInfo.cs
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nicholas\BibliotecaApi\BibliotecaApi\obj\Debug\net8.0\BibliotecaApi.MvcApplicationPartsAssemblyInfo.cache
